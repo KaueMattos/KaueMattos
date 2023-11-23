@@ -3,7 +3,7 @@
 [![Site](https://img.shields.io/website?label=Site:Lov2pets.com&style=for-the-badge&url=https://kauemattos.github.io/LOV2PETS/)](https://kauemattos.github.io/LOV2PETS/)
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-mattos-guedes-4b3767265/)
-[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:kauemattosguedes@gmail.com)
+[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauemattosguedes@gmail.com)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953348861?text=FalaDev!)
 
 ![Kauê GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueMattos&show_icons=true&theme=dark)
